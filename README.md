@@ -20,3 +20,8 @@ Volver a subir al repositorio:
 git add.
 git commit -m "algo"
 git push -u origin master
+
+
+Recordar que hemos añadido --> "ourdir": "./dist", en config.json 
+para controlar lo archivos transpilados de ts a js 
+para ejecutar un archivo js: node dist/ejercicio001
